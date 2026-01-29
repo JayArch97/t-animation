@@ -38,7 +38,6 @@ export const LoadingAnimation = ({ size }: { size: number }) => {
             height: size,
             borderRadius: size / 2,
             borderWidth: size / 10,
-
             shadowOffset: { width: 0, height: 0 },
             shadowOpacity: 1,
             shadowRadius: 10,
@@ -73,7 +72,6 @@ export const LoadingAnimation = ({ size }: { size: number }) => {
             height: size,
             borderRadius: size / 2,
             borderWidth: size / 10,
-
             shadowOffset: { width: 0, height: 0 },
             shadowOpacity: 1,
             shadowRadius: 10,
@@ -108,7 +106,6 @@ export const LoadingAnimation = ({ size }: { size: number }) => {
             height: size,
             borderRadius: size / 2,
             borderWidth: size / 10,
-
             shadowOffset: { width: 0, height: 0 },
             shadowOpacity: 1,
             shadowRadius: 10,
@@ -183,7 +180,6 @@ export const LoadingAnimation = ({ size }: { size: number }) => {
             height: size,
             borderRadius: size / 2,
             borderWidth: size / 10,
-
             shadowOffset: { width: 0, height: 0 },
             shadowOpacity: 1,
             shadowRadius: 10,
